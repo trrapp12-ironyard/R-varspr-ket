@@ -1,72 +1,36 @@
 # R-varspr-ket
 ---
 
-![Robbing R-varspr-ket](https://cloud.githubusercontent.com/assets/11747875/20289817/255608aa-aa99-11e6-89d9-95c611e97016.png)
+![Robbing R-varspr-ket](https://cloud.githubusercontent.com/assets/11747875/20293274/2017903e-aab2-11e6-9a2d-5b9fab79dc44.png)
 <br/>
 <br/>
-![Pure Energy screen-shot2](https://cloud.githubusercontent.com/assets/11747875/20289828/41ff0984-aa99-11e6-8f00-1d05e7de04cf.png)
+![Pure Energy screen-shot2](https://cloud.githubusercontent.com/assets/11747875/20293268/16c10d62-aab2-11e6-94a0-dc74a3822ad3.png)
 <br/>
 <br/>
-![Pure Energy screen-shot2](https://cloud.githubusercontent.com/assets/11747875/20289843/5fb8e5da-aa99-11e6-9df1-59494825098d.png)
+###Description:
+---
+I published this Kata on [CodeWars](/www.codewars.com) to prove to myself not only could I solve the Kata's that everyone else did, but I could publish one too.
+
+
 <br/>
 <br/>
 
 ###This project demonstrates the following:
 ---
 
-- [x] Include imported css.
-
-#####Apply styles based on the following selectors and selector combinations:
----
-
-- [x] element
-- [x] class
-- [x] id
-- [x] distinct nested element and class combination (i.e. if applied to element
-- [x] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
-- [x] shared styles (e.g. `p, a`)
-
-#####Add styling including at least one instance for each of these **properties**:
----
-
-- [x] width
-- [x] height
-- [x] display
-- [x] margin
-- [x] padding
-- [x] border
-- [x] background-color
-- [x] background-image
-- [x] color
-- [x] font-size
-- [x] font-style
-- [x] text-align
-- [x] font-weight
-
-#####Use the following measurements at least once:
----
-
-- [x] px
-- [x]  %
-- [x] em
-- [x] Modify each of the four different anchor states
-
-#####Make
----
-
-- [x] small and frequent git commits
-- [x] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
-- [x] Ensure you've set the GitHub pages to use your "master branch".
-- [x] Use a background gradiant
-
-<br/>
-<br/>
+- [x] I can do hard things
+- [x] TDD
+- [x] JavaScript for loops through arrays
+- [x] Array manipulation
+- [x] I can do hard things
+- [x] Regex
+- [x] Sanitizing input against Cross-site Scripting(XSS)
 
 
 ###Project published at: 
 ---
 
-[wk-01-alpha](https://trrapp12-ironyard.github.io/wk-01-alpha/)
+[Robbing R-varspr-ket](https://www.codewars.com/kata/580dc0ee8424e4e2ab00002f)
 <br/>
 <br/>
 ###More Information:
