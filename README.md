@@ -22,7 +22,6 @@ I published this Kata on [CodeWars](/www.codewars.com) to prove to myself not on
 - [x] TDD
 - [x] JavaScript for loops through arrays
 - [x] Array manipulation
-- [x] I can do hard things
 - [x] Regex
 - [x] Sanitizing input against Cross-site Scripting(XSS)
 
